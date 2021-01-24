@@ -1,1 +1,1 @@
-# project-euler-solution
+# [Project Euler](https://projecteuler.net/about) Solutions
