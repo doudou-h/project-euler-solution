@@ -7,7 +7,7 @@
 - [Pentagonal number theorem](/78.%20Pentagonal%20number%20theorem.md)
 
 ### Interesting problems
-### Games
+#### Games
 - [54. Poker hands](./54.%20Poker%20hands.md)
 - [84. Monopoly odds](./84.%20Monopoly%20odds.md)
 - [93. Arithmetic expressions](./93.%20Arithmetic%20expressions.md) ([24 Game](https://en.wikipedia.org/wiki/24_Game#24®_Game))
