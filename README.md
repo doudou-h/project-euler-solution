@@ -30,7 +30,7 @@ It's fun and challenging.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. ...
 
 - #### Start from small numbers and look for a pattern
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. [85. Counting rectangles](./85.%20Counting%20rectangles.md) or when recursive relation is not so obvious
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is probably the most important one to solve problems on Project Euler. They're maths problems. Maths has its beauty. Maths has patterns.  e.g. [85. Counting rectangles](./85.%20Counting%20rectangles.md) or when recursive relation is not so obvious
 
 - #### Break the problem down into smaller parts 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This coincides the idea of writing clean code.
