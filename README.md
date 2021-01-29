@@ -29,7 +29,8 @@ It's fun and challenging.
 - #### Follow intuition
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. ...
 
-- #### Start from small numbers and look for a pattern
+- **Start from small numbers and look for a pattern**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is probably the most important one to solve problems on Project Euler. They're maths problems. Maths has its beauty and has patterns.
 
 - #### Break the problem down into smaller parts 
