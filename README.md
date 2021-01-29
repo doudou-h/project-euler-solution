@@ -27,7 +27,6 @@ It's fun and challenging.
 ### How to solve a new problem? 
 
 - #### Follow intuition
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. ...
 
 - **Start from small numbers and look for a pattern**
 
