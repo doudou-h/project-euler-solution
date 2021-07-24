@@ -30,7 +30,7 @@ It's fun and challenging.
 
 - **Start from small numbers and look for a pattern**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is probably the most important one to solve problems on Project Euler. They're maths problems. Maths has its beauty and has patterns.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is probably the most important one to solve problems on Project Euler. They're maths problems. Maths has its beauty and has **patterns**.
 
 - #### Break the problem down into smaller parts 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This coincides the idea of writing clean code.
