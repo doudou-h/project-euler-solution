@@ -20,10 +20,6 @@ I have learnt a lot through solving problems on Project Euler. Here is a short l
 #### Short answer
 It's fun and challenging. 
 
-#### Long answer
-...
-
-
 ### How to solve a new problem? 
 
 - #### Follow intuition
