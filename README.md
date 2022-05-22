@@ -10,7 +10,6 @@ I have learnt a lot through solving problems on Project Euler. Here is a short l
 ### Interesting problems
 #### Games
 - [54. Poker hands](./54.%20Poker%20hands.md)
-- [84. Monopoly odds](./84.%20Monopoly%20odds.md)
 - [93. Arithmetic expressions](./93.%20Arithmetic%20expressions.md) ([24 Game](https://en.wikipedia.org/wiki/24_Game#24®_Game))
 - [96. Su Doku](./96.%20Su%20Doku.md)
 - [692. Siegbert and Jo](./692.%20Siegbert%20and%20Jo.md)
