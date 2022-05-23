@@ -32,8 +32,8 @@ It's fun and challenging.
 
 ### How to "cheat"?
 
-- [Pypy](https://www.pypy.org/features.html)
+- [Pypy](https://www.pypy.org/features.html) - Get speedup with minimal effort.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get speedup with minimal effort. Pypy can potentially reduce python execution time from one hour to one or a few minutes. That makes an almost unbearable solution not too bad in the end.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks to its just-in-time (JIT) compilation by translating python code to machine code, pypy can potentially reduce execution time from one hour to one or a few minutes. That makes an unbearable solution not too bad in the end. See more [here](https://realpython.com/pypy-faster-python/).
 
 - [OEIS](http://oeis.org)
