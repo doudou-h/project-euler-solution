@@ -17,7 +17,6 @@ I have learnt a lot through solving problems on Project Euler. Here is a short l
 
 ### Why do I work on Project Euler? 
 
-#### Short answer
 It's fun and challenging. 
 
 ### How to solve a new problem? 
@@ -30,3 +29,11 @@ It's fun and challenging.
 
 - #### Break the problem down into smaller parts 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This coincides the idea of writing clean code.
+
+### How to "cheat"?
+
+- [Pypy](https://www.pypy.org/features.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get speedup with minimal effort. Pypy can potentially reduce python execution time from one hour to one or a few minutes. That makes an almost unbearable solution not too bad in the end.
+
+- [OEIS](http://oeis.org)
