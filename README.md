@@ -1,7 +1,7 @@
 ## [Project Euler](https://projecteuler.net/about)
 
-### What I have learnt
-I have learnt a lot through solving problems on Project Euler. Here is a short list. I write them down in my own words to make sure that I truly understand them. 
+### What I have learned
+I have learned a lot through solving problems on Project Euler. Here is a short list. I write them down in my own words to make sure that I truly understand them. 
 
 #### Maths
 - [Miller–Rabin primality test](/58.%20Miller–Rabin%20primality%20test.md)
