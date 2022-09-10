@@ -34,6 +34,6 @@ It's fun and challenging.
 
 - [Pypy](https://www.pypy.org/features.html) - Get speedup with minimal effort.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks to its just-in-time (JIT) compilation by translating python code to machine code, pypy can significantly improve performance. It works especially well for recursion problem from my experience, which can potentially reduce execution time from one hour to one or a few minutes. That makes an unbearable solution not too bad in the end. See more [here](https://realpython.com/pypy-faster-python/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks to its just-in-time (JIT) compilation by translating python code to machine code, pypy can significantly improve performance. It works especially well for recursion problem from my experience, which can potentially reduce execution time from one hour to a few minutes. That makes an unbearable solution not too bad in the end. See more [here](https://realpython.com/pypy-faster-python/).
 
 - [OEIS](http://oeis.org)
